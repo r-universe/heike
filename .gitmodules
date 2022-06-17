@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggparallel"]
+	path = ggparallel
+	url = https://github.com/heike/ggparallel
+	shallow = true
+	registered = true
+[submodule "peptider"]
+	path = peptider
+	url = https://github.com/heike/peptider
+	shallow = true
+	registered = true
+[submodule "x3ptools"]
+	path = x3ptools
+	url = https://github.com/heike/x3ptools
+	shallow = true
+	registered = true

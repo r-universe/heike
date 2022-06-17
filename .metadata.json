@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ggparallel",
+    "oncran": true
+  },
+  {
+    "package": "peptider",
+    "oncran": true
+  },
+  {
+    "package": "x3ptools",
+    "oncran": true
+  }
+]
