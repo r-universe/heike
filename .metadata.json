@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "ggpcp",
+    "oncran": true
+  },
+  {
     "package": "peptider",
     "oncran": true
   },
