@@ -4,15 +4,15 @@
     "oncran": true
   },
   {
+    "package": "ggpcp",
+    "oncran": true
+  },
+  {
     "package": "peptider",
     "oncran": true
   },
   {
     "package": "x3ptools",
-    "oncran": true
-  },
-  {
-    "package": "ggpcp",
     "oncran": true
   }
 ]
