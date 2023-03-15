@@ -8,11 +8,6 @@
 	url = https://github.com/heike/ggparallel
 	shallow = true
 	registered = true
-[submodule "ggpcp"]
-	path = ggpcp
-	url = https://github.com/heike/ggpcp
-	shallow = true
-	registered = true
 [submodule "peptider"]
 	path = peptider
 	url = https://github.com/heike/peptider
@@ -21,5 +16,10 @@
 [submodule "x3ptools"]
 	path = x3ptools
 	url = https://github.com/heike/x3ptools
+	shallow = true
+	registered = true
+[submodule "ggpcp"]
+	path = ggpcp
+	url = https://github.com/heike/ggpcp
 	shallow = true
 	registered = true
