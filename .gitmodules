@@ -8,9 +8,6 @@
 [submodule "ggpcp"]
 	path = ggpcp
 	url = https://github.com/heike/ggpcp
-[submodule "peptider"]
-	path = peptider
-	url = https://github.com/heike/peptider
 [submodule "x3ptools"]
 	path = x3ptools
 	url = https://github.com/heike/x3ptools
