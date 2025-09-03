@@ -8,6 +8,10 @@
 [submodule "ggpcp"]
 	path = ggpcp
 	url = https://github.com/heike/ggpcp
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+	registered = false
 [submodule "x3ptools"]
 	path = x3ptools
 	url = https://github.com/heike/x3ptools
