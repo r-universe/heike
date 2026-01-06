@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggparallel"]
-	path = ggparallel
-	url = https://github.com/heike/ggparallel
 [submodule "ggpcp"]
 	path = ggpcp
 	url = https://github.com/heike/ggpcp
